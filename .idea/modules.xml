@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Jo-Ken-Po-code-girls-santander.iml" filepath="$PROJECT_DIR$/.idea/Jo-Ken-Po-code-girls-santander.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Jo-Ken-Po/jokenpo.iml" filepath="$PROJECT_DIR$/Jo-Ken-Po/jokenpo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jo-ken-po-java-17.iml" filepath="$PROJECT_DIR$/jo-ken-po-java-17.iml" />
     </modules>
   </component>
 </project>
